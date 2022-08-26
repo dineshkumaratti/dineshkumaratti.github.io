@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e156ea46a84bb59e7c6dacd82e9afa04",
+  "assets/AssetManifest.json": "d7d3e2ae31afab252e9737e63037076a",
 "assets/assets/fonts/Montserrat-Black.ttf": "55e37a35525c63e130e76d588f2f5e8d",
 "assets/assets/fonts/Montserrat-BlackItalic.ttf": "39833eed48300f751547827bd709ddc5",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
@@ -23,6 +23,7 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat-Thin.ttf": "426a4b74bf1d6920508384899bfb695b",
 "assets/assets/fonts/Montserrat-ThinItalic.ttf": "13cf2c4a5e253cf43b82a7d3f8485c88",
 "assets/assets/img/bcc.png": "91807a0b1f760ed7c13fbecac90f3985",
+"assets/assets/img/dk.jpeg": "8c2197e0d9e64b7788e17a28cfb9f32d",
 "assets/assets/img/github.png": "6a314787b380f80290e7d79cf46b3d9a",
 "assets/assets/img/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
 "assets/assets/img/instagram-new.png": "e5ba7dd76e0bb07430a191da66ab6010",
@@ -39,7 +40,7 @@ const RESOURCES = {
 "assets/assets/img/projects/restaurantappB.png": "01ac06cb25d53098cae6225959f28f92",
 "assets/FontManifest.json": "6e0449f7f788a57c04bbad8f9cf6229d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "876d55a48443e464a8c9d601c227335d",
+"assets/NOTICES": "10e9fe447960fe18d711811a00c9fe48",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
@@ -70,9 +71,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "6292f3602d0dc6b0da251cb5b2d0aaa8",
 "icons/Icon-512.png": "1cecfafb49e3bc788f9ed910327f87c9",
-"index.html": "bbc00da986290449e78df255f7689dd3",
-"/": "bbc00da986290449e78df255f7689dd3",
-"main.dart.js": "480a72a1d7412ee8a8059d8c7ea8a775",
+"index.html": "039428016f952619f2beb43d61a46517",
+"/": "039428016f952619f2beb43d61a46517",
+"main.dart.js": "a1a9c46bf0e417be6505b880a30d5ad7",
 "manifest.json": "c4cdfda89bd4e25df5d75807e058476f",
 "version.json": "635e8bdb29196c340bd951597ea1e7d6"
 };
