@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d7d3e2ae31afab252e9737e63037076a",
+  "assets/AssetManifest.json": "9f7fd1e70e6cc467ba3a84fa23877039",
+"assets/assets/dk.jpeg": "8c2197e0d9e64b7788e17a28cfb9f32d",
 "assets/assets/fonts/Montserrat-Black.ttf": "55e37a35525c63e130e76d588f2f5e8d",
 "assets/assets/fonts/Montserrat-BlackItalic.ttf": "39833eed48300f751547827bd709ddc5",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
@@ -23,7 +24,6 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat-Thin.ttf": "426a4b74bf1d6920508384899bfb695b",
 "assets/assets/fonts/Montserrat-ThinItalic.ttf": "13cf2c4a5e253cf43b82a7d3f8485c88",
 "assets/assets/img/bcc.png": "91807a0b1f760ed7c13fbecac90f3985",
-"assets/assets/img/dk.jpeg": "8c2197e0d9e64b7788e17a28cfb9f32d",
 "assets/assets/img/github.png": "6a314787b380f80290e7d79cf46b3d9a",
 "assets/assets/img/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
 "assets/assets/img/instagram-new.png": "e5ba7dd76e0bb07430a191da66ab6010",
@@ -71,10 +71,10 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "6292f3602d0dc6b0da251cb5b2d0aaa8",
 "icons/Icon-512.png": "1cecfafb49e3bc788f9ed910327f87c9",
-"index.html": "ab296fea1db9df3cb7ee5ecd65d459cc",
-"/": "ab296fea1db9df3cb7ee5ecd65d459cc",
-"main.dart.js": "9ff86e344141a9287e9a3b689b3b724b",
-"manifest.json": "c4cdfda89bd4e25df5d75807e058476f",
+"index.html": "6ea635f139e80ce2eb3a4952056be805",
+"/": "6ea635f139e80ce2eb3a4952056be805",
+"main.dart.js": "01fbce35cf8af2c3807ca1061aea3a3f",
+"manifest.json": "9336ea58cd37d8e6144df44a2ed908e0",
 "version.json": "635e8bdb29196c340bd951597ea1e7d6"
 };
 
