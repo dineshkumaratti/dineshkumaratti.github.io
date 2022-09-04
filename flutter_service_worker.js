@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9f7fd1e70e6cc467ba3a84fa23877039",
+  "assets/AssetManifest.json": "e97608f3e84a19a0f2228aa8c108c998",
 "assets/assets/dk.jpeg": "8c2197e0d9e64b7788e17a28cfb9f32d",
 "assets/assets/fonts/Montserrat-Black.ttf": "55e37a35525c63e130e76d588f2f5e8d",
 "assets/assets/fonts/Montserrat-BlackItalic.ttf": "39833eed48300f751547827bd709ddc5",
@@ -38,6 +38,12 @@ const RESOURCES = {
 "assets/assets/img/projects/publicoB.png": "0f64e81a5f20e193a0a0fd0a1eac86f7",
 "assets/assets/img/projects/restaurantapp.png": "99e1df2971ed7e81d6f92b3d3245e115",
 "assets/assets/img/projects/restaurantappB.png": "01ac06cb25d53098cae6225959f28f92",
+"assets/assets/img/sad.jpg": "5c179e291fdba2d4479cfaacb6e3cebd",
+"assets/assets/sad.gif": "af219c03dd3a838de29d805989139eec",
+"assets/assets/sad1.gif": "6abf47d32b2b40dfb472ba8aaab6c046",
+"assets/assets/sadd.gif": "8215c503922adbe1c2893ca3d87fdbb0",
+"assets/assets/saddd.gif": "470d9dfdb65089b4bf93b5fca0a6eaed",
+"assets/assets/wave.gif": "f52705434fd388183ce03aeda114359f",
 "assets/FontManifest.json": "6e0449f7f788a57c04bbad8f9cf6229d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "10e9fe447960fe18d711811a00c9fe48",
@@ -71,9 +77,9 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "6292f3602d0dc6b0da251cb5b2d0aaa8",
 "icons/Icon-512.png": "1cecfafb49e3bc788f9ed910327f87c9",
-"index.html": "cec6794e7f6efd235df078ab3cd089c4",
-"/": "cec6794e7f6efd235df078ab3cd089c4",
-"main.dart.js": "10a8ce7982f519dcbef50b13d27c763b",
+"index.html": "8e1abf7724301f9723e7da19464981f9",
+"/": "8e1abf7724301f9723e7da19464981f9",
+"main.dart.js": "1f72d35a8e483da27afc7375e6c3523b",
 "manifest.json": "9336ea58cd37d8e6144df44a2ed908e0",
 "version.json": "635e8bdb29196c340bd951597ea1e7d6"
 };
